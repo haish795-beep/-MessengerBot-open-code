@@ -1,0 +1,23 @@
+<h1 align="center">📩 Kakao Auto Read</h1>
+<p align="center">자동 읽기 & markAsRead를 간단하게 구현하는 경량 모듈</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YOUR_ID/REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/YOUR_ID/REPO?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/YOUR_ID/REPO?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 Features
+- ✅ 자동 읽기 (Auto Read)
+- ✅ markAsRead 지원
+- ⚡ 초경량
+- 🔌 기존 봇에 바로 적용 가능
+
+---
+
+## 📦 Installation
+
+```bash
+npm install kakao-auto-read
