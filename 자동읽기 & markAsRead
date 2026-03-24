@@ -1,23 +1,16 @@
-<h1 align="center">📩 Kakao Auto Read</h1>
-<p align="center">자동 읽기 & markAsRead를 간단하게 구현하는 경량 모듈</p>
+# [메봇] - 자동 읽기 & markAsRead 🤖
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_ID/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/YOUR_ID/REPO?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/YOUR_ID/REPO?style=for-the-badge">
-</p>
+> 깃허브 알림과 메시지를 자동으로 관리하고 읽음 처리(`markAsRead`)하는 저장소입니다.
 
----
+## 📋 주요 기능
+- **자동 읽기 (Auto-read):** 새로 고침 없이도 들어오는 알림을 실시간 감지합니다.
+- **일괄 읽음 처리 (Mark as Read):** 클릭 한 번으로 모든 미확인 메시지를 정리합니다.
+- **필터링 시스템:** 중요한 알림만 골라내고 나머지는 조용히 처리합니다.
 
-## 🚀 Features
-- ✅ 자동 읽기 (Auto Read)
-- ✅ markAsRead 지원
-- ⚡ 초경량
-- 🔌 기존 봇에 바로 적용 가능
-
----
-
-## 📦 Installation
+## 🚀 시작하기
+이 저장소를 클론하여 로컬 환경에서 바로 실행할 수 있습니다.
 
 ```bash
-npm install kakao-auto-read
+git clone https://github.com
+cd mebot-markasread
+npm install
